@@ -5,3 +5,5 @@
 https://developer.wordpress.org/apis/handbook/internationalization/#utm_medium=referral&utm_source=facebook.com&utm_content=social
 
 https://pascalbirchler.com/internationalization-in-wordpress-5-0/
+
+Έχουν γίνει όλες οι απαραίτητες ρυθμίσεις σύμφωνα με αυτά τα δύο άρθρα και με το wp-cli δημιουργήθηκε το json για τα ελληνικά
