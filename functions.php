@@ -26,7 +26,7 @@ function translation_scripts() {
 
 	wp_register_script( 'translation-script', get_template_directory_uri() .'/js/translation.js', array( 'jquery', 'wp-i18n' ), '0.0.1' );
 
-	wp_set_script_translations( 'translation-script', 'translation' );
+	wp_set_script_translations( 'translation-script', 'translation', get_template_directory() . '/languages' );
 
 	wp_enqueue_script( 'translation-script' );
 }
